@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>panacea.icu</title><link href="https://panacea.icu/" rel="alternate"></link><link href="https://panacea.icu/feeds/all.atom.xml" rel="self"></link><id>https://panacea.icu/</id><updated>2021-02-06T14:12:00+08:00</updated><entry><title>Test Pelican</title><link href="https://panacea.icu/test-pelican.html" rel="alternate"></link><published>2021-02-06T14:12:00+08:00</published><updated>2021-02-06T14:12:00+08:00</updated><author><name>pink</name></author><id>tag:panacea.icu,2021-02-06:/test-pelican.html</id><content type="html">&lt;h1&gt;《晓行巴峡》&lt;/h1&gt;
+&lt;p&gt;际晓投巴峡，馀春忆帝京。
+晴江一女浣，朝日众鸡鸣。
+水国舟中市，山桥树杪行。
+登高万井出，眺迥二流明。
+人作殊方语，莺为故国声。
+赖多山水趣，稍解别离情。&lt;/p&gt;</content><category term="Tests"></category></entry></feed>
