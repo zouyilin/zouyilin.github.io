@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>panacea.icu - Tests</title><link href="https://zouyilin.github.io/" rel="alternate"></link><link href="https://zouyilin.github.io/feeds/tests.atom.xml" rel="self"></link><id>https://zouyilin.github.io/</id><updated>2021-02-06T21:36:00+08:00</updated><entry><title>Test Image</title><link href="https://zouyilin.github.io/test-image.html" rel="alternate"></link><published>2021-02-06T21:36:00+08:00</published><updated>2021-02-06T21:36:00+08:00</updated><author><name>pink</name></author><id>tag:zouyilin.github.io,2021-02-06:/test-image.html</id><content type="html">&lt;p&gt;Test image:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>panacea.icu - Tests</title><link href="https://panacea.icu/" rel="alternate"></link><link href="https://panacea.icu/feeds/tests.atom.xml" rel="self"></link><id>https://panacea.icu/</id><updated>2021-02-06T21:36:00+08:00</updated><entry><title>Test Image</title><link href="https://panacea.icu/test-image.html" rel="alternate"></link><published>2021-02-06T21:36:00+08:00</published><updated>2021-02-06T21:36:00+08:00</updated><author><name>Pink</name></author><id>tag:panacea.icu,2021-02-06:/test-image.html</id><content type="html">&lt;p&gt;Test image:&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;
-&lt;img alt="image" src="https://zouyilin.github.io/images/image1.jpeg" width="95%"&gt;
-&lt;/center&gt;&lt;/p&gt;</content><category term="Tests"></category></entry><entry><title>Test Math</title><link href="https://zouyilin.github.io/test-math.html" rel="alternate"></link><published>2021-02-06T21:30:00+08:00</published><updated>2021-02-06T21:30:00+08:00</updated><author><name>pink</name></author><id>tag:zouyilin.github.io,2021-02-06:/test-math.html</id><summary type="html">&lt;p&gt;Inline formula: &lt;span class="math"&gt;\(1 + 1 = 3\)&lt;/span&gt;&lt;/p&gt;
+&lt;img alt="image" src="https://panacea.icu/images/image1.jpeg" width="95%"&gt;
+&lt;/center&gt;&lt;/p&gt;</content><category term="Tests"></category></entry><entry><title>Test Math</title><link href="https://panacea.icu/test-math.html" rel="alternate"></link><published>2021-02-06T21:30:00+08:00</published><updated>2021-02-06T21:30:00+08:00</updated><author><name>Pink</name></author><id>tag:panacea.icu,2021-02-06:/test-math.html</id><summary type="html">&lt;p&gt;Inline formula: &lt;span class="math"&gt;\(1 + 1 = 3\)&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Display formula: 
 &lt;/p&gt;
 &lt;div class="math"&gt;$$ 1 - 1 = 2 $$&lt;/div&gt;
@@ -145,7 +145,7 @@
     (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
-&lt;/script&gt;</content><category term="Tests"></category></entry><entry><title>Test Pelican</title><link href="https://zouyilin.github.io/test-pelican.html" rel="alternate"></link><published>2021-02-06T14:12:00+08:00</published><updated>2021-02-06T14:12:00+08:00</updated><author><name>pink</name></author><id>tag:zouyilin.github.io,2021-02-06:/test-pelican.html</id><content type="html">&lt;h1&gt;《晓行巴峡》&lt;/h1&gt;
+&lt;/script&gt;</content><category term="Tests"></category></entry><entry><title>Test Pelican</title><link href="https://panacea.icu/test-pelican.html" rel="alternate"></link><published>2021-02-06T14:12:00+08:00</published><updated>2021-02-06T14:12:00+08:00</updated><author><name>Pink</name></author><id>tag:panacea.icu,2021-02-06:/test-pelican.html</id><content type="html">&lt;h1&gt;《晓行巴峡》&lt;/h1&gt;
 &lt;p&gt;际晓投巴峡，馀春忆帝京。
 晴江一女浣，朝日众鸡鸣。
 水国舟中市，山桥树杪行。
